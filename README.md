@@ -185,6 +185,7 @@ SmritiMitra/
 
 ---
 
+
 ## 🔮 Future Enhancements
 
 The following features are planned for future versions of SmritiMitra:
