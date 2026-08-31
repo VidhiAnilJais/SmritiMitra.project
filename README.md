@@ -149,11 +149,6 @@ UI features include:
 
 - MySQL
 
-### Development Environment
-
-- XAMPP
-- Apache
-
 ---
 
 ## 📁 Project Structure
@@ -188,48 +183,6 @@ SmritiMitra/
 │
 └── README.md
 
-## 🚀 How to Run the Project
-
-Follow these steps to run SmritiMitra on your local system.
-
-### Step 1: Install XAMPP
-
-Install and open **XAMPP**.
-
-Start the following services from the XAMPP Control Panel:
-
-- Apache
-- MySQL
-
----
-
-### Step 2: Move the Project
-
-Place the **SmritiMitra** project folder inside the XAMPP `htdocs` directory:
-
-```text
-xampp/htdocs/
-```
-
-Example:
-
-```text
-xampp/htdocs/SmritiMitra/
-```
-
----
-
-### Step 3: Open the Application
-
-Open your browser and visit:
-
-```text
-http://localhost/SmritiMitra/
-```
-
-Your SmritiMitra application should now be running successfully. 🎉
-
----
 
 ## 🔮 Future Enhancements
 
